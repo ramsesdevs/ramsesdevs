@@ -12,7 +12,7 @@
 
 Building modern software with clean code and thoughtful design.
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a Full Stack Developer from Nicaragua passionate about building modern software, intuitive user interfaces and scalable applications.
 
@@ -45,24 +45,28 @@ Modern SaaS-inspired Project Management Dashboard built with HTML, CSS and JavaS
 
 Enterprise CRM dashboard focused on client management and productivity.
 
+🔗 [View Repository](https://github.com/ramsesdevs/NexusCRM)
 ---
 
 ## 💳 POS System
 
 Point of Sale system developed with Java and Spring Boot.
 
+🔗 [View Repository](https://github.com/ramsesdevs/POS-System)
 ---
 
 ## 🍽 Restaurant Landing
 
 Modern responsive landing page for a restaurant.
 
+🔗 [View Repository](https://github.com/ramsesdevs/Restaurant-Landing)
 ---
 
 ## 💈 Andy Barber
 
 Premium business website for a modern barbershop.
 
+🔗 [View Repository](https://github.com/ramsesdevs/Andy-Barber)
 ---
 
 # 🎯 Current Goals
@@ -97,13 +101,20 @@ Premium business website for a modern barbershop.
 
 ---
 
-# 📫 Connect
+## 📫 Contact
 
-- GitHub → https://github.com/ramsesdevs
-- Portfolio → Coming Soon
-- Fiverr → Coming Soon
+- GitHub: https://github.com/ramsesdevs
+- Portfolio: Coming Soon
+- Fiverr: Coming Soon
 
 ---
+
+## 🌱 Currently Learning
+
+- Advanced Spring Boot
+- Backend Architecture
+- Database Optimization
+- Software Engineering Best Practices
 
 <div align="center">
 
