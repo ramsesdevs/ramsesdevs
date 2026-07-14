@@ -7,11 +7,11 @@
 Building modern software with clean code and thoughtful design.
 
 ---
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramsesdevs&color=2563EB&style=flat-square)
+<img src="./assets/banner.png" width="100%" />
 
 </div>
-
 ---
 
 # 🚀 About Me
