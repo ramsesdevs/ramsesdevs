@@ -1,18 +1,16 @@
 <div align="center">
 
+<img src="./assets/banner.png" width="100%" />
+
+</div>
+
+<div align="center">
+
 # Hi, I'm Ramsés Baltodano 👋
 
 ### Full Stack Developer
 
 Building modern software with clean code and thoughtful design.
-
----
-<div align="center">
-
-<img src="./assets/banner.png" width="100%" />
-
-</div>
----
 
 # 🚀 About Me
 
@@ -40,6 +38,7 @@ Currently focused on improving my skills in Java, Spring Boot and modern web dev
 
 Modern SaaS-inspired Project Management Dashboard built with HTML, CSS and JavaScript.
 
+🔗 [View Repository](https://github.com/ramsesdevs/DevFlow)
 ---
 
 ## 🏢 NexusCRM
