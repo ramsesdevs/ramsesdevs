@@ -28,7 +28,7 @@ Currently focused on improving my skills in Java, Spring Boot and modern web dev
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p>
 
@@ -38,44 +38,44 @@ Currently focused on improving my skills in Java, Spring Boot and modern web dev
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📊 DevFlow
+## DevFlow
 
 Modern SaaS-inspired Project Management Dashboard built with HTML, CSS and JavaScript.
 
-🔗 [View Repository](https://github.com/ramsesdevs/DevFlow)
+ [View Repository](https://github.com/ramsesdevs/DevFlow)
 ---
 
-## 🏢 NexusCRM
+##  NexusCRM
 
 Enterprise CRM dashboard focused on client management and productivity.
 
-🔗 [View Repository](https://github.com/ramsesdevs/NexusCRM)
+ [View Repository](https://github.com/ramsesdevs/NexusCRM)
 ---
 
-## 💳 POS System
+## POS System
 
 Point of Sale system developed with Java and Spring Boot.
 
 🔗 [View Repository](https://github.com/ramsesdevs/POS-System)
 ---
 
-## 🍽 Restaurant Landing
+##  Restaurant Landing
 
 Modern responsive landing page for a restaurant.
 
-🔗 [View Repository](https://github.com/ramsesdevs/Restaurant-Landing)
+ [View Repository](https://github.com/ramsesdevs/Restaurant-Landing)
 ---
 
-## 💈 Andy Barber
+##  Andy Barber
 
 Premium business website for a modern barbershop.
 
-🔗 [View Repository](https://github.com/ramsesdevs/Andy-Barber)
+ [View Repository](https://github.com/ramsesdevs/Andy-Barber)
 ---
 
-# 🎯 Current Goals
+#  Current Goals
 
 - Build high-quality portfolio projects
 - Master Spring Boot
@@ -85,7 +85,7 @@ Premium business website for a modern barbershop.
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -113,7 +113,7 @@ Premium business website for a modern barbershop.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced Spring Boot
 - Backend Architecture
