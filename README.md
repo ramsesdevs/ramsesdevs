@@ -6,6 +6,12 @@
 
 <div align="center">
 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+JavaScript;Building+Modern+Software;Always+Learning+New+Technologies" />
+
+</p>
+
 # Hi, I'm Ramsés Baltodano 👋
 
 ### Full Stack Developer
@@ -79,13 +85,11 @@ Premium business website for a modern barbershop.
 
 ---
 
-# 📈 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ramsesdevs&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesdevs&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsesdevs&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -101,10 +105,10 @@ Premium business website for a modern barbershop.
 
 ---
 
-## 📫 Contact
+## 📧 Contact
 
 - GitHub: https://github.com/ramsesdevs
-- Portfolio: Coming Soon
+- Portfolio: https://ramsesdevs.github.io/portfolio/
 - Fiverr: Coming Soon
 
 ---
