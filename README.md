@@ -44,14 +44,14 @@ Currently focused on improving my skills in Java, Spring Boot and modern web dev
 
 Modern SaaS-inspired Project Management Dashboard built with HTML, CSS and JavaScript.
 
- [View Repository](https://github.com/ramsesdevs/DevFlow)
+🔗 [View Repository](https://github.com/ramsesdevs/DevFlow)
 ---
 
 ##  NexusCRM
 
 Enterprise CRM dashboard focused on client management and productivity.
 
- [View Repository](https://github.com/ramsesdevs/NexusCRM)
+🔗 [View Repository](https://github.com/ramsesdevs/NexusCRM)
 ---
 
 ## POS System
@@ -65,14 +65,14 @@ Point of Sale system developed with Java and Spring Boot.
 
 Modern responsive landing page for a restaurant.
 
- [View Repository](https://github.com/ramsesdevs/Restaurant-Landing)
+🔗 [View Repository](https://github.com/ramsesdevs/Restaurant-Landing)
 ---
 
 ##  Andy Barber
 
 Premium business website for a modern barbershop.
 
- [View Repository](https://github.com/ramsesdevs/Andy-Barber)
+🔗 [View Repository](https://github.com/ramsesdevs/Andy-Barber)
 ---
 
 #  Current Goals
